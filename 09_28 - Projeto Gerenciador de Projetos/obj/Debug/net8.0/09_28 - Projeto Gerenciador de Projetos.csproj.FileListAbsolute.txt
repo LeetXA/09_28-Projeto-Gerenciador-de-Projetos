@@ -1,0 +1,14 @@
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\bin\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.exe
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\bin\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.deps.json
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\bin\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.runtimeconfig.json
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\bin\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.dll
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\bin\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.pdb
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\obj\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.GeneratedMSBuildEditorConfig.editorconfig
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\obj\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.AssemblyInfoInputs.cache
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\obj\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.AssemblyInfo.cs
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\obj\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.csproj.CoreCompileInputs.cache
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\obj\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.dll
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\obj\Debug\net8.0\refint\09_28 - Projeto Gerenciador de Projetos.dll
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\obj\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.pdb
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\obj\Debug\net8.0\09_28 - Projeto Gerenciador de Projetos.genruntimeconfig.cache
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\09_28 - Projeto Gerenciador de Projetos\obj\Debug\net8.0\ref\09_28 - Projeto Gerenciador de Projetos.dll
